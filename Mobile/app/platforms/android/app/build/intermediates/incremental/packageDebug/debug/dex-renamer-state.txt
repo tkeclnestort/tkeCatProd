@@ -1,4 +1,4 @@
-#Wed Mar 21 09:15:49 CLST 2018
+#Wed Mar 21 09:19:28 CLST 2018
 base.0=C\:\\Users\\90000107\\Documents\\GitHub\\tkeCatProd\\Mobile\\app\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 renamed.0=classes.dex
 file.0=C\:\\Users\\90000107\\Documents\\GitHub\\tkeCatProd\\Mobile\\app\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

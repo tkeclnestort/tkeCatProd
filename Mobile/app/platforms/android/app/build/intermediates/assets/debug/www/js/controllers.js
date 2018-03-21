@@ -78,6 +78,13 @@ angular.module('thyssenApp.controllers', ['thyssenApp.services'])
             $scope.filtrosProd.cod_sigla = '';
             $scope.filtrosProd.desc_princ = '';
             $scope.filtrosProd.desc_sec = '';
+            $scope.filtrosProd.columna1 = '1';
+            $scope.filtrosProd.marca = '00';
+            $scope.filtrosProd.modelo = '01'; 
+            $scope.filtrosProd.estado = '02';
+            $scope.filtrosProd.cod_reemplazo = '03';
+            $scope.filtrosProd.cod_oracle='04';
+            
             $scope.filtrosProd.pais_nombre = $window.sessionStorage.nombrepais;
             $scope.filtrosProd.idPais = $window.sessionStorage.idPais;
             $scope.cat_resultados = [];
