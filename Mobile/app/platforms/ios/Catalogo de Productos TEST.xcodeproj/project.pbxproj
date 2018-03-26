@@ -413,7 +413,7 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: thyssenkrupp elevadores S.A";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = BCF22M42W7;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -458,8 +458,8 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: thyssenkrupp elevadores S.A";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: thyssenkrupp elevadores S.A";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = "";
 				DEVELOPMENT_TEAM = BCF22M42W7;
