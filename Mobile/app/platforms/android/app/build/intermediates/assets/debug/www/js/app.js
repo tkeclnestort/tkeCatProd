@@ -21,8 +21,8 @@ angular.module('thyssenApp', ['ionic', 'thyssenApp.controllers', 'ionic-modal-se
         })
         .constant('appConfig', {
             appVersion: '1.0.0',
-            //appName: 'Catalogo de Productos',apiUrl: 'http://mobile.tkelatam.com/cp/api', loginUrl: 'http://mobile.tkelatam.com/cp/app/login',serverRoot: 'http://mobile.tkelatam.com/cp/', lblTest : '',
-            appName: 'Catalogo de Productos',apiUrl: 'http://mobile.tkelatam.com/cp-test/index.php/api', loginUrl: 'http://mobile.tkelatam.com/cp-test/index.php/app/login', serverRoot: 'http://mobile.tkelatam.com/cp-test/', lblTest : 'TEST', gaEvent: 'TEST Azure', gaTrackProd: true,
+            appName: 'Catalogo de Productos',apiUrl: 'http://mobile.tkelatam.com/cp/api', loginUrl: 'http://mobile.tkelatam.com/cp/app/login',serverRoot: 'http://mobile.tkelatam.com/cp/', lblTest : '',
+            //appName: 'Catalogo de Productos',apiUrl: 'http://mobile.tkelatam.com/cp-test/index.php/api', loginUrl: 'http://mobile.tkelatam.com/cp-test/index.php/app/login', serverRoot: 'http://mobile.tkelatam.com/cp-test/', lblTest : 'TEST', gaEvent: 'TEST Azure', gaTrackProd: true,
             //appName: 'Catalogo de Productos',apiUrl: 'http://tkecp.localhost.net/api',loginUrl: 'http://tkecp.localhost.net/app/login', serverRoot: 'http://tkecp.localhost.net/', lblTest: 'LOCAL',
             nbdebug: 'false'
         })
