@@ -43,22 +43,22 @@
   },
   "installed_plugins": {
     "cordova-plugin-console": {
-      "PACKAGE_NAME": "com.thyssenkrupp.test.tkecatalogo"
+      "PACKAGE_NAME": "com.thyssenkrupp.tkecatalogo"
     },
     "cordova-plugin-device": {
-      "PACKAGE_NAME": "com.thyssenkrupp.test.tkecatalogo"
+      "PACKAGE_NAME": "com.thyssenkrupp.tkecatalogo"
     },
     "cordova-plugin-splashscreen": {
-      "PACKAGE_NAME": "com.thyssenkrupp.test.tkecatalogo"
+      "PACKAGE_NAME": "com.thyssenkrupp.tkecatalogo"
     },
     "cordova-plugin-statusbar": {
-      "PACKAGE_NAME": "com.thyssenkrupp.test.tkecatalogo"
+      "PACKAGE_NAME": "com.thyssenkrupp.tkecatalogo"
     },
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "com.thyssenkrupp.test.tkecatalogo"
+      "PACKAGE_NAME": "com.thyssenkrupp.tkecatalogo"
     },
     "ionic-plugin-keyboard": {
-      "PACKAGE_NAME": "com.thyssenkrupp.test.tkecatalogo"
+      "PACKAGE_NAME": "com.thyssenkrupp.tkecatalogo"
     }
   },
   "dependent_plugins": {},

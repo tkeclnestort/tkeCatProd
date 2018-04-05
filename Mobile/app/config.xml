@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.thyssenkrupp.test.tkecatalogo" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Catalogo de Productos TEST</name>
+<widget id="com.thyssenkrupp.tkecatalogo" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Catalogo de Productos</name>
     <description>
     Catalogo de Productos
     </description>

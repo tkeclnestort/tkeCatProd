@@ -1,0 +1,36 @@
+<div class="card">
+<div class="item item-calm item-divider">
+  Familia: {{prod.familiaName}}
+</div>  
+    
+
+   <ul class="list-group">
+       <li class="list-group-item">  Código N° {{prod.cod_sigla}} </li>
+       <li class="list-group-item"> Código Regional N° {{prod.cod_reg}}</li>
+       <li class="list-group-item  active " ng-if="prod.stock !== null">Stock: {{prod.stock}} {{prod.stock_um}}</li>
+   </ul>
+
+      
+  <div class="item item-text-wrap">
+    {{prod.descpal}}
+    
+       
+    <a class="item item-avatar" ng-click="abrirImgProductoModal($index)">
+      <img class="img-avatar img-fluid" ng-if="prod.imagen !== null" ng-src='{{serverUrl + prod.imagen}}' alt="Sin imagen"  />
+      <img class="img-avatar img-fluid" ng-if="prod.imagen == null" border="1" ng-src='{{serverUrl}}/img/{{prod.cod_sigla}}.png' alt="Sin imagen"  />
+      
+      {{prod.descsec}}</a>
+ 
+  </div>
+    <div class="card-body">
+    <p>Sub-Familia o Línea: {{prod.subfamiliaName}}</p>
+    <p>Volumen rep. con embalaje: {{prod.volumen}} {{prod.volumen_um}}</p>
+    <p>Peso rep. con embalaje: {{prod.peso}} {{prod.peso_um}}</p>
+    <p>Fabrica: {{prod.fabrica}} </p>
+    <p>Modelo: {{prod.modelo}} </p>
+    <p>Estado: {{prod.estado}} </p>
+    <p>Codigo Reemplazo: {{prod.cod_reemplazo}} </p>
+    <p>Codigo Oracle: {{prod.cod_oracle}} </p>
+    </div>
+  
+   </div>
